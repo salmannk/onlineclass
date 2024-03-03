@@ -16,3 +16,6 @@ git remote add origin https://github.com/salmannk/onlineclass.git
 git branch -M main
 git push -u origin main
 
+token for 90 days
+
+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
